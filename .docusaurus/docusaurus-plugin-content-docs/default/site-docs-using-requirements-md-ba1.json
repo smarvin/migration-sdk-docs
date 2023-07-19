@@ -1,0 +1,28 @@
+{
+  "unversionedId": "using/requirements",
+  "id": "using/requirements",
+  "title": "Requirements",
+  "description": "Platform, hardware, and programming language requirements for using the Tableau Migration SDK.",
+  "source": "@site/docs/using/requirements.md",
+  "sourceDirName": "using",
+  "slug": "/using/requirements",
+  "permalink": "/migration-sdk-docs/docs/using/requirements",
+  "draft": false,
+  "editUrl": "https://github.com/smarvin/migration-sdk-docs/tree/gh-pages/packages/create-docusaurus/templates/shared/docs/using/requirements.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Requirements",
+    "description": "Platform, hardware, and programming language requirements for using the Tableau Migration SDK.",
+    "layout": "docs"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Migration Tasks",
+    "permalink": "/migration-sdk-docs/docs/using/migration_tasks"
+  },
+  "next": {
+    "title": "Troubleshooting",
+    "permalink": "/migration-sdk-docs/docs/using/troubleshooting"
+  }
+}

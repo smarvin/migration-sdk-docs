@@ -1,0 +1,8 @@
+{
+  "label": "Reference",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Migration SDK reference documentation and architecture"
+  }
+}

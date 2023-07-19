@@ -1,0 +1,103 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/migration-sdk-docs/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/migration-sdk-docs/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "help_about",
+              "path": "/migration-sdk-docs/docs/help_about",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/migration-sdk-docs/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overview/best_practices",
+              "path": "/migration-sdk-docs/docs/overview/best_practices",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overview/index",
+              "path": "/migration-sdk-docs/docs/overview/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overview/intro",
+              "path": "/migration-sdk-docs/docs/overview/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overview/planning",
+              "path": "/migration-sdk-docs/docs/overview/planning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reference/api_ref",
+              "path": "/migration-sdk-docs/docs/reference/api_ref",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reference/architecture",
+              "path": "/migration-sdk-docs/docs/reference/architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "using/installation",
+              "path": "/migration-sdk-docs/docs/using/installation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "using/migration_tasks",
+              "path": "/migration-sdk-docs/docs/using/migration_tasks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "using/requirements",
+              "path": "/migration-sdk-docs/docs/using/requirements",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "using/troubleshooting",
+              "path": "/migration-sdk-docs/docs/using/troubleshooting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/overview-of-the-migration-sdk",
+              "path": "/migration-sdk-docs/docs/category/overview-of-the-migration-sdk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/using-the-migration-sdk",
+              "path": "/migration-sdk-docs/docs/category/using-the-migration-sdk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/reference",
+              "path": "/migration-sdk-docs/docs/category/reference",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/migration-sdk-docs/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

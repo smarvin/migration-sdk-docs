@@ -1,0 +1,27 @@
+{
+  "unversionedId": "reference/api_ref",
+  "id": "reference/api_ref",
+  "title": "Migration SDK  Reference",
+  "description": "",
+  "source": "@site/docs/reference/api_ref.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/api_ref",
+  "permalink": "/migration-sdk-docs/docs/reference/api_ref",
+  "draft": false,
+  "editUrl": "https://github.com/smarvin/migration-sdk-docs/tree/gh-pages/packages/create-docusaurus/templates/shared/docs/reference/api_ref.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "layout": "api-ref",
+    "title": "Migration SDK  Reference"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reference",
+    "permalink": "/migration-sdk-docs/docs/category/reference"
+  },
+  "next": {
+    "title": "Architecture",
+    "permalink": "/migration-sdk-docs/docs/reference/architecture"
+  }
+}

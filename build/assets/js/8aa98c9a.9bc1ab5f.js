@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmigration_sdk_docs=self.webpackChunkmigration_sdk_docs||[]).push([[8954],{6861:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/migration-sdk-docs/blog/tags/facebook","allTagsPath":"/migration-sdk-docs/blog/tags","count":1}')}}]);

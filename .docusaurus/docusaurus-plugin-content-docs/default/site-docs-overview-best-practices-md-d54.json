@@ -1,0 +1,28 @@
+{
+  "unversionedId": "overview/best_practices",
+  "id": "overview/best_practices",
+  "title": "Best Practices",
+  "description": "Some common practices that we recommend for help with your migration.",
+  "source": "@site/docs/overview/best_practices.md",
+  "sourceDirName": "overview",
+  "slug": "/overview/best_practices",
+  "permalink": "/migration-sdk-docs/docs/overview/best_practices",
+  "draft": false,
+  "editUrl": "https://github.com/smarvin/migration-sdk-docs/tree/gh-pages/packages/create-docusaurus/templates/shared/docs/overview/best_practices.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Best Practices",
+    "description": "Some common practices that we recommend for help with your migration.",
+    "layout": "docs"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial Intro",
+    "permalink": "/migration-sdk-docs/docs/overview/intro"
+  },
+  "next": {
+    "title": "Migration SDK Overview",
+    "permalink": "/migration-sdk-docs/docs/overview/"
+  }
+}

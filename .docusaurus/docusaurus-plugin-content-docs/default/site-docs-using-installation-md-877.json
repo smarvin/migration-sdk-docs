@@ -1,0 +1,28 @@
+{
+  "unversionedId": "using/installation",
+  "id": "using/installation",
+  "title": "Installation Instructions",
+  "description": "How to install and configure the Tableau Migration SDK.",
+  "source": "@site/docs/using/installation.md",
+  "sourceDirName": "using",
+  "slug": "/using/installation",
+  "permalink": "/migration-sdk-docs/docs/using/installation",
+  "draft": false,
+  "editUrl": "https://github.com/smarvin/migration-sdk-docs/tree/gh-pages/packages/create-docusaurus/templates/shared/docs/using/installation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Installation Instructions",
+    "description": "How to install and configure the Tableau Migration SDK.",
+    "layout": "docs"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Using the Migration SDK",
+    "permalink": "/migration-sdk-docs/docs/category/using-the-migration-sdk"
+  },
+  "next": {
+    "title": "Migration Tasks",
+    "permalink": "/migration-sdk-docs/docs/using/migration_tasks"
+  }
+}

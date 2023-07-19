@@ -1,0 +1,28 @@
+{
+  "unversionedId": "using/troubleshooting",
+  "id": "using/troubleshooting",
+  "title": "Troubleshooting",
+  "description": "If you have trouble with your migration using the Migration SDK, check this section for help.",
+  "source": "@site/docs/using/troubleshooting.md",
+  "sourceDirName": "using",
+  "slug": "/using/troubleshooting",
+  "permalink": "/migration-sdk-docs/docs/using/troubleshooting",
+  "draft": false,
+  "editUrl": "https://github.com/smarvin/migration-sdk-docs/tree/gh-pages/packages/create-docusaurus/templates/shared/docs/using/troubleshooting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Troubleshooting",
+    "description": "If you have trouble with your migration using the Migration SDK, check this section for help.",
+    "layout": "docs"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Requirements",
+    "permalink": "/migration-sdk-docs/docs/using/requirements"
+  },
+  "next": {
+    "title": "Reference",
+    "permalink": "/migration-sdk-docs/docs/category/reference"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Using the Migration SDK",
+  "description": "Topics to help you migrate your resources from Tableau Server to Tableau Cloud",
+  "slug": "/category/using-the-migration-sdk",
+  "permalink": "/migration-sdk-docs/docs/category/using-the-migration-sdk",
+  "navigation": {
+    "previous": {
+      "title": "Planning Your Migration",
+      "permalink": "/migration-sdk-docs/docs/overview/planning"
+    },
+    "next": {
+      "title": "Installation Instructions",
+      "permalink": "/migration-sdk-docs/docs/using/installation"
+    }
+  }
+}

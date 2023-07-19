@@ -1,0 +1,16 @@
+{
+  "title": "Reference",
+  "description": "Migration SDK reference documentation and architecture",
+  "slug": "/category/reference",
+  "permalink": "/migration-sdk-docs/docs/category/reference",
+  "navigation": {
+    "previous": {
+      "title": "Troubleshooting",
+      "permalink": "/migration-sdk-docs/docs/using/troubleshooting"
+    },
+    "next": {
+      "title": "Migration SDK  Reference",
+      "permalink": "/migration-sdk-docs/docs/reference/api_ref"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "reference/architecture",
+  "id": "reference/architecture",
+  "title": "Architecture",
+  "description": "A brief overview of the Tableu Migration SDK architecture.",
+  "source": "@site/docs/reference/architecture.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/architecture",
+  "permalink": "/migration-sdk-docs/docs/reference/architecture",
+  "draft": false,
+  "editUrl": "https://github.com/smarvin/migration-sdk-docs/tree/gh-pages/packages/create-docusaurus/templates/shared/docs/reference/architecture.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Architecture",
+    "description": "A brief overview of the Tableu Migration SDK architecture.",
+    "layout": "docs"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Migration SDK  Reference",
+    "permalink": "/migration-sdk-docs/docs/reference/api_ref"
+  },
+  "next": {
+    "title": "About Tableau Help",
+    "permalink": "/migration-sdk-docs/docs/help_about"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "overview/index",
+  "id": "overview/index",
+  "title": "Migration SDK Overview",
+  "description": "An overview of the Tableau Migration SDK, including what the SDK can and cannot do.",
+  "source": "@site/docs/overview/index.md",
+  "sourceDirName": "overview",
+  "slug": "/overview/",
+  "permalink": "/migration-sdk-docs/docs/overview/",
+  "draft": false,
+  "editUrl": "https://github.com/smarvin/migration-sdk-docs/tree/gh-pages/packages/create-docusaurus/templates/shared/docs/overview/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Migration SDK Overview",
+    "description": "An overview of the Tableau Migration SDK, including what the SDK can and cannot do.",
+    "layout": "docs"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Best Practices",
+    "permalink": "/migration-sdk-docs/docs/overview/best_practices"
+  },
+  "next": {
+    "title": "Planning Your Migration",
+    "permalink": "/migration-sdk-docs/docs/overview/planning"
+  }
+}

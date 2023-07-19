@@ -1,0 +1,220 @@
+{
+  "/migration-sdk-docs/blog-440": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "50a090a1"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "metadata": "f835cbf6"
+  },
+  "/migration-sdk-docs/blog/archive-026": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "50a090a1"
+    },
+    "archive": "c4603af6"
+  },
+  "/migration-sdk-docs/blog/first-blog-post-ca7": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "50a090a1"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/migration-sdk-docs/blog/long-blog-post-92c": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "50a090a1"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/migration-sdk-docs/blog/mdx-blog-post-4e9": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "50a090a1"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/migration-sdk-docs/blog/tags-052": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "50a090a1"
+    },
+    "sidebar": "814f3328",
+    "tags": "a7b952b3"
+  },
+  "/migration-sdk-docs/blog/tags/docusaurus-7c3": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "50a090a1"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "c5ebea3f",
+    "listMetadata": "a07b5603"
+  },
+  "/migration-sdk-docs/blog/tags/facebook-c71": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "50a090a1"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "tag": "8aa98c9a",
+    "listMetadata": "fd0946cb"
+  },
+  "/migration-sdk-docs/blog/tags/hello-c95": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "50a090a1"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "tag": "e96aa785",
+    "listMetadata": "7be1c717"
+  },
+  "/migration-sdk-docs/blog/tags/hola-35b": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "50a090a1"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "2e3a5b2c",
+    "listMetadata": "a8ab2ddc"
+  },
+  "/migration-sdk-docs/blog/welcome-64f": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "50a090a1"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/migration-sdk-docs/markdown-page-2b4": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "d9479c6a"
+    },
+    "content": "393be207"
+  },
+  "/migration-sdk-docs/docs-8e0": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "8dade624"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/migration-sdk-docs/docs/category/overview-of-the-migration-sdk-36c": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "af2cad9e"
+  },
+  "/migration-sdk-docs/docs/category/reference-6db": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "f323df4a"
+  },
+  "/migration-sdk-docs/docs/category/using-the-migration-sdk-f2a": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "41a88ca4"
+  },
+  "/migration-sdk-docs/docs/help_about-2d8": {
+    "__comp": "17896441",
+    "content": "e09673ae"
+  },
+  "/migration-sdk-docs/docs/intro-000": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/migration-sdk-docs/docs/overview/-5f0": {
+    "__comp": "17896441",
+    "content": "fb87d503"
+  },
+  "/migration-sdk-docs/docs/overview/best_practices-452": {
+    "__comp": "17896441",
+    "content": "d54b500b"
+  },
+  "/migration-sdk-docs/docs/overview/intro-543": {
+    "__comp": "17896441",
+    "content": "753cb6b2"
+  },
+  "/migration-sdk-docs/docs/overview/planning-661": {
+    "__comp": "17896441",
+    "content": "6046b6e9"
+  },
+  "/migration-sdk-docs/docs/reference/api_ref-c49": {
+    "__comp": "17896441",
+    "content": "813a0b0e"
+  },
+  "/migration-sdk-docs/docs/reference/architecture-6b8": {
+    "__comp": "17896441",
+    "content": "33ec3d65"
+  },
+  "/migration-sdk-docs/docs/using/installation-1dc": {
+    "__comp": "17896441",
+    "content": "877da342"
+  },
+  "/migration-sdk-docs/docs/using/migration_tasks-8ad": {
+    "__comp": "17896441",
+    "content": "518328e3"
+  },
+  "/migration-sdk-docs/docs/using/requirements-9cb": {
+    "__comp": "17896441",
+    "content": "ba164059"
+  },
+  "/migration-sdk-docs/docs/using/troubleshooting-2e3": {
+    "__comp": "17896441",
+    "content": "796bd79d"
+  },
+  "/migration-sdk-docs/-857": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "d9479c6a"
+    },
+    "config": "5e9f5e1a"
+  }
+}

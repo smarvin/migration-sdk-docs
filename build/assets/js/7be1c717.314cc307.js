@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmigration_sdk_docs=self.webpackChunkmigration_sdk_docs||[]).push([[6776],{6923:o=>{o.exports=JSON.parse('{"permalink":"/migration-sdk-docs/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

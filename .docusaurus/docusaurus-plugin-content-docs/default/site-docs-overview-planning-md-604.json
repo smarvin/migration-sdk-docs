@@ -1,0 +1,28 @@
+{
+  "unversionedId": "overview/planning",
+  "id": "overview/planning",
+  "title": "Planning Your Migration",
+  "description": "Some considerations before you begin using the Tableau Migration SDK.",
+  "source": "@site/docs/overview/planning.md",
+  "sourceDirName": "overview",
+  "slug": "/overview/planning",
+  "permalink": "/migration-sdk-docs/docs/overview/planning",
+  "draft": false,
+  "editUrl": "https://github.com/smarvin/migration-sdk-docs/tree/gh-pages/packages/create-docusaurus/templates/shared/docs/overview/planning.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Planning Your Migration",
+    "description": "Some considerations before you begin using the Tableau Migration SDK.",
+    "layout": "docs"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Migration SDK Overview",
+    "permalink": "/migration-sdk-docs/docs/overview/"
+  },
+  "next": {
+    "title": "Using the Migration SDK",
+    "permalink": "/migration-sdk-docs/docs/category/using-the-migration-sdk"
+  }
+}

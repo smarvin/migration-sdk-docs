@@ -1,0 +1,23 @@
+{
+  "unversionedId": "help_about",
+  "id": "help_about",
+  "title": "About Tableau Help",
+  "description": "Addressing Implicit Bias in Technical Language",
+  "source": "@site/docs/help_about.md",
+  "sourceDirName": ".",
+  "slug": "/help_about",
+  "permalink": "/migration-sdk-docs/docs/help_about",
+  "draft": false,
+  "editUrl": "https://github.com/smarvin/migration-sdk-docs/tree/gh-pages/packages/create-docusaurus/templates/shared/docs/help_about.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "About Tableau Help",
+    "layout": "docs"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Architecture",
+    "permalink": "/migration-sdk-docs/docs/reference/architecture"
+  }
+}
